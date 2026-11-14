@@ -17,7 +17,7 @@
     "@fontsource-variable/newsreader": "^5.3.0",
     "@fontsource-variable/nunito": "^5.3.0",
     "@synapse-medical/design": "workspace:*",
-    "astro": "^7.4.4",
+    "astro": "^7.4.7",
     "bootstrap-icons": "1.11.3",
     "sharp": "^0.35.5",
     "starlight-llms-txt": "^0.12.0"
